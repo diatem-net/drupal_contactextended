@@ -1,0 +1,6 @@
+; $Id$
+name = Contact Extended
+description = Ajouter des champs dans le formulaire de contact du site
+version = 0.0.1
+core = 7.x
+package = DIATEM
